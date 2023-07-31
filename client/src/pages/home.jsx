@@ -36,7 +36,7 @@ const Home = () => {
               className="flex flex-col gap-5"
             >
               <p className="max-w-md font-normal text-gray-1200 text-base">
-              Create a dynamic 3D product that <strong>revolutionizes the online shopping experience</strong>, offering users the ability to customize and visualize their own unique designs in stunning detail, while seamlessly integrating <strong>creativity</strong>{" "} to <strong>showcase</strong> their personalized creations to the world.
+              Introducing revolutionary 3D Product App - an <strong>immersive and interactive</strong> way to explore and experience products like never before. Where users can view products from every angle for intricate details, and even interact with them in real-time. the app <strong>brings products to life</strong>, allowing customers to make more <strong>informed purchasing decisions</strong>. Say goodbye to flat images and static descriptions - with 3D Product App, <strong>the future of product visualization</strong> is here.
               </p>
 
               <CustomButton 
