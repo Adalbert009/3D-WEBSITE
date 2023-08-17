@@ -2,10 +2,9 @@
   "name": "server",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm run start"
+    "start": "npm run index.js"
   },
   "keywords": [],
   "author": "Adalbert009",
@@ -18,5 +17,15 @@
     "mongoose": "^7.3.1",
     "node": "^20.3.1",
     "openai": "^3.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adalbert009/3d-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Adalbert009/3d-website/issues"
+  },
+  "homepage": "https://github.com/Adalbert009/3d-website#readme",
+  "description": ""
 }
