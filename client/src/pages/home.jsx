@@ -36,7 +36,7 @@ const Home = () => {
               className="flex flex-col gap-5"
             >
               <p className="max-w-md font-normal text-gray-1200 text-base">
-              Introducing revolutionary 3D Product App - an <strong>immersive and interactive</strong> way to explore and experience products like never before. Where users can view products from every angle for intricate details, and even interact with them in real-time. the app <strong>brings products to life</strong>, allowing customers to make more <strong>informed purchasing decisions</strong>. Say goodbye to flat images and static descriptions - with 3D Product App, <strong>the future of product visualization</strong> is here.
+              Introducing revolutionary 3D Product Website - an <strong>immersive and interactive</strong> way to explore and experience products like never before. Where users can view products from every angle for intricate details, and even interact with them in real-time. the app <strong>brings products to life</strong>, allowing customers to make more <strong>informed purchasing decisions</strong>. Say goodbye to flat images and static descriptions - with 3D Product Website, <strong>the future of product visualization</strong> is here.
               </p>
 
               <CustomButton 
