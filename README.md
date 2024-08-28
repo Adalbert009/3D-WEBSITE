@@ -6,6 +6,7 @@ A 3D interactive product website  showcasing AI and 3D web technologies. It feat
 Here’s an expanded breakdown of all the technologies used to create this 3D website:
 
 Frontend:
+
 Three.js: A JavaScript library used for creating and displaying 3D graphics in a web browser. It powers the 3D models and animations.
 
 WebGL: A web standard that allows rendering 3D graphics without plugins. It works under the hood to enable Three.js to render interactive visuals.
